@@ -42,30 +42,30 @@ blueprint:
       default: []
       selector:
         action: {}
-button_5:
-      name: Press Button Five
-      description: Action to run on button press.
-      default: []
-      selector:
-        action: {}
-button_6:
-      name: Press Button Six
-      description: Action to run on button press.
-      default: []
-      selector:
-        action: {}
-button_7:
-      name: Press Button Seven
-      description: Action to run on button press.
-      default: []
-      selector:
-        action: {}
-button_8:
-      name: Press Button Eight
-      description: Action to run on button press.
-      default: []
-      selector:
-        action: {}
+    button_5:
+          name: Press Button Five
+          description: Action to run on button press.
+          default: []
+          selector:
+            action: {}
+    button_6:
+          name: Press Button Six
+          description: Action to run on button press.
+          default: []
+          selector:
+            action: {}
+    button_7:
+          name: Press Button Seven
+          description: Action to run on button press.
+          default: []
+          selector:
+            action: {}
+    button_8:
+          name: Press Button Eight
+          description: Action to run on button press.
+          default: []
+          selector:
+            action: {}
 mode: single
 max_exceeded: silent
 variables:
